@@ -1,0 +1,7 @@
+C:\Users\Joana\source\repos\DrunkPC3\DrunkPC3\obj\Debug\DrunkPC3.csprojAssemblyReference.cache
+C:\Users\Joana\source\repos\DrunkPC3\DrunkPC3\obj\Debug\DrunkPC3.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\DrunkPC3\DrunkPC3\bin\Debug\DrunkPC3.exe.config
+C:\Users\Joana\source\repos\DrunkPC3\DrunkPC3\bin\Debug\DrunkPC3.exe
+C:\Users\Joana\source\repos\DrunkPC3\DrunkPC3\bin\Debug\DrunkPC3.pdb
+C:\Users\Joana\source\repos\DrunkPC3\DrunkPC3\obj\Debug\DrunkPC3.exe
+C:\Users\Joana\source\repos\DrunkPC3\DrunkPC3\obj\Debug\DrunkPC3.pdb
